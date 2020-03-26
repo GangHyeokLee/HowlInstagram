@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579403809096",
+    "firebase_url": "https://howlinstagram-5fd6a.firebaseio.com",
+    "project_id": "howlinstagram-5fd6a",
+    "storage_bucket": "howlinstagram-5fd6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579403809096:android:e1fe50004b124f3a1ef37d",
+        "android_client_info": {
+          "package_name": "com.example.howlinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579403809096-b111ib2vahvjg57ni33c03u0folg9k6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.howlinstagram",
+            "certificate_hash": "380b8a444e9634d12992e2b356be556aa9376ecf"
+          }
+        },
+        {
+          "client_id": "579403809096-1a8norf55sfdpdd3gsmh16cpdmumlfdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7eMOG4mmesdc8z5_oNwtiGB6NZrWYzig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579403809096-1a8norf55sfdpdd3gsmh16cpdmumlfdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
